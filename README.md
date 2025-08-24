@@ -1,4 +1,4 @@
-Diabetes Prediction System
+Diabetes Prediction System:
 
 Description:
 Implemented a machine learning-based prediction model to identify individuals at risk of diabetes. The system analyzes health data and predicts potential cases, enabling early intervention.
